@@ -16,7 +16,7 @@ In the first task you are going to create a terrain for a simple mountainous env
 
 Your terrain should include a valley that snakes up through mountains. At the head of this valley is a higher mountain, which can be climbed by following a windy path. The simple map below indicates roughly how you should lay out these elements of your terrain, but it’s up to you to decide exactly what your terrain should be like.
 
-[!A mountain with a windy path](
+[!A mountain with a windy path](https://github.com/UoY-IM-MPIE/mpie-p21-creating-terrain/blob/main/Instructions/mountainmap.jpg)
 
 You can use any of the following approaches (or a combination of a number of them) to create your terrain:
 
