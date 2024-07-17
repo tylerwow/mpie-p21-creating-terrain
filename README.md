@@ -6,7 +6,7 @@ By the end of this practical you will:
 
 - Be able to create a Unity terrain object using either: an imported height map, a height map created using the terrain editor a procedurally generated height map
 - Be able to add multiple textures to a terrain using interactive texture splatting in Unity
-- Be able to add a character controller prefab to a terrain, so that it can be explored in the first person perspective
+- Be able to add a character controller prefab to a terrain, so that it can be explored from the first-person perspective
 
 This repository includes a Unity project with some assets (e.g. trees, textures) that you can use to create terrains. To get started make a copy of this repository on your GitHub account and clone it onto your local computer.
 
@@ -43,7 +43,7 @@ You’ll find the textures used in the lecture in the “Standard Assets” fold
 
 Now your environment is complete, you should explore it using a first-person character.
 
-You are going to use something called a character controller prefab, to add a first person character to your environment. A prefab is a convenient template from which you can create pre-configured game objects. A character controller prefab is a prefab that helps you create a game object that contains all of the components needed to let you walk around in a first-person view.
+You are going to use something called a character controller prefab, to add a first person character to your environment. A prefab is a convenient template from which you can create pre-configured game objects. A character controller prefab is a prefab that helps you create a game object that contains all the components needed to let you walk around in a first-person view.
 
 There is a first-person controller prefab included in the project for you to use. To find it, search for ‘FPSController’ using the search box at the top right of the project window. If you’ve typed the correct search term into the box, you should see a blue cube icon with ‘FPSController’ below it. Drag this cube icon onto your terrain to create an FPSController game object at a position of your choice.
 
